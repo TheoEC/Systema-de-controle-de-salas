@@ -1,5 +1,5 @@
 /*
- Escrita em arquivo txt
+ Teste de escrita em arquivo txt
  */
 package Serial;
 
